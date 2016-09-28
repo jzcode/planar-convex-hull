@@ -4,7 +4,7 @@
 Obtain the file at the following relative path: *./planar-convex-hull.sln* and Open it with Visual Studio 2015,
 then use the keyboard shortcuts: Ctrl-Shift-B (to Build) and Ctrl-F5 (to Run), or simply Ctrl-F5 if it is setup
 in your Visual Studio 2015 environment by selecting the 'Always build' menu-item from the
-'On Run, when projects are out of date' dropdown menu bar located at
+'On Run, when projects are out of date' dropdown menu bar located at the
 *Tools > Options > Projects and Solutions > Build and Run* interface.
 
 ### Relative path to planar-convex-hull source files
